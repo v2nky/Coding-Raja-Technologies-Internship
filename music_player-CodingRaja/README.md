@@ -1,1 +1,1 @@
-@Online Music Player by EDURURI VENKATESH BABU
+Online Music Player by EDURURI VENKATESH BABU
